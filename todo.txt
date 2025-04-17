@@ -1,0 +1,6 @@
+- ponovo, na kraju izlistati requirements i izbrisati viškove jer file ide u Git repo
+- Kreirati Git repo i povezati
+- Napraviti eng verziju
+- ubaciti link u CV, ne treba mi ostalo, ovo je dovoljno i staviti na Linkedin
+- postaviti pitanje za sugestije na Reddit data analiza/eng Reddit
+- da ne bih prevodio sve delatnosrti prevesti samo rezultat u EBNG verziji
