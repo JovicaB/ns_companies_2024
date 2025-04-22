@@ -4,3 +4,58 @@
 - ubaciti link u CV, ne treba mi ostalo, ovo je dovoljno i staviti na Linkedin
 - postaviti pitanje za sugestije na Reddit data analiza/eng Reddit
 - da ne bih prevodio sve delatnosrti prevesti samo rezultat u EBNG verziji
+
+
+
+daj mi sugestije i oceni tekst i izbor analiza
+ChatGPT said:
+
+Uvod:
+Tekst je dobro strukturiran, jasan i precizan, i odražava osnovnu svrhu analize, ali bih dodao nekoliko sitnih izmjena kako bi bio još jasniji. Dobar je naglasak na ograničenjima u interpretaciji rezultata i važnosti dodatnih analiza.
+
+Predlozi za poboljšanje:
+
+    Navedeni tekst može biti malo kompaktniji i sažetiji u nekim delovima, posebno kada se govori o interpretaciji, da bi bio još lakši za praćenje.
+
+    Takođe, možete se fokusirati na to da istaknete da je cilj analize uputiti na potencijalne upute za dalje analize, a ne samo da se pruži "uvid u obrasce".
+
+Sadržaj:
+
+    Pregled distribucije po broju zaposlenih: Dobro je da imate analize prema veličini, bonitetu, dekadi osnivanja jer će ovo omogućiti uvid u kako različiti faktori utiču na poslovanje.
+
+    Sektori privrede: Izbor sektora i analiza sektora u više aspekata je odličan, ali imajte na umu da bi moglo biti korisno naglasiti specifične sektore sa velikim odstupanjima (outliers) ili specifičnim osobinama, kao što su IT sektor, proizvodnja ili trgovina. Takođe, 4.B.6. - "Najprofitabilniji i najmanje profitabilni sektori" mogu uključivati dodatne analize sa višestrukim pristupima.
+
+Pitanja za analizu sektora:
+
+    4.B.8 - Sektori sa najvišim i najnižim prosečnim amortizacijama — ovde treba dodati razmatranje šta amortizacija zaista pokazuje u kontekstu kapitalnih ulaganja. Kako amortizacija ne pokazuje direktno kapitalna ulaganja, može biti korisno da istaknete ovu distinkciju u interpretaciji. Osim toga, saglasan sam da treba prvo da se izlistaju sektori, pa da se sa medijanom napravi filtriranje.
+
+    Prihodi i rashodi: Ovde bi mogao biti koristan box plot ili violin plot za distribuciju prihoda, kao i strip plot sa različitim bojama prema veličini kompanija — kao što ste predložili. Za analizu prihoda prema broju zaposlenih, mogli biste razmotriti regresioni pristup ili testove kako biste bolje videli kako se povećanje broja zaposlenih može direktno povezati sa povećanjem prihoda.
+
+    Izolovani slučajevi (outliers): Korišćenje izuzetaka za analizu sektora sa velikim odstupanjima od proseka bi trebalo dodatno proširiti s obzirom na vašu analizu marži, prihoda i rashoda, da biste uočili ekstremne slučajeve i njihovu povezanost sa profitabilnošću.
+
+    Neto dobit: Preporučujem da se povežete sa efikasnošću korišćenja resursa, tj. broja zaposlenih vs. neto dobiti, čime bi se došlo do uvida u produktivnost. Takođe, možete razmisliti o analizi zašto pojedini sektori sa visokim prihodom imaju nisku neto maržu, što može ukazivati na visoke operativne troškove.
+
+    Amortizacija i kapitalna ulaganja: Može biti korisno dodati analizu proizvodnih sektora u poređenju sa uslužnim sektorima u kontekstu kapitalnih ulaganja. Proizvodnja obično zahteva veća ulaganja u imovinu, dok uslugi sektori mogu imati manju kapitalnu intenzivnost. Preporučujem i korelaciju sa prihodima za sektor da bi se dobio bolji uvid u odnose.
+
+    Marže poslovanja: Predložene analize neto, EBIT i EBITDA marži su ključne. Dobar je izbor za analizu kroz različite dimenzije, ali trebali bismo dodati analize za faktore koji utiču na ove marže, kao što su kapitalna ulaganja i broj zaposlenih. Takve analize mogu omogućiti bolje poređenje sektora sa visokim i niskim maržama.
+
+    Klaster analiza: To bi bio odličan završni korak za identifikaciju obrazaca i klasifikaciju kompanija prema sličnostima u svim analiziranim parametrima.
+
+Preporuke za poboljšanje:
+
+    Proširite analizu o amortizaciji i kapitalnim ulaganjima kako bi se jasno objasnilo koje metodologije se koriste za izračunavanje i kako to utiče na tumačenje rezultata.
+
+    Razmotrite da za outlier analize uključite specifične sektore koji pokazuju ekstremne vrednosti, a ne samo opšti sektor sa najvećim odstupanjima.
+
+    Dodajte korelacije u analizi marži i kapitalnih ulaganja kako bi povezali razumevanje uticaja tih faktora na finansijske rezultate.
+
+    U analizi zaposlenih iskoristite dodatne testove normalnosti kako biste temeljno proverili distribuciju zaposlenih prema prihodima.
+
+    Klaster analiza bi mogla biti ključna za razumevanje obrazaca među različitim kompanijama i sektorima, pa bi se trebala detaljnije razraditi u završnim fazama.
+
+Sve u svemu, vaš tekst i plan analiza su dobro osmišljeni i pružaju dobar okvir za analizu. Sa dodatnim objašnjenjima metodologije i preciznijim korišćenjem statističkih metoda (posebno u vezi s korelacijama i outlier analizama), dobićete još robusnije rezultate.
+
+
+
+
+
